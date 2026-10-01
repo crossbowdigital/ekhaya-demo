@@ -1,7 +1,3 @@
 ﻿Date,Branch,Category,Counts as,Description,Supplier,Currency,Amount,Rate,USD,Paid from,Reference,Status,Void reason
-2026-09-28,Mandava,Food purchases,Cost of sales,Food order,National Foods,USD,517.94,,517.94,bank,INV-0928MDV,recorded,
-2026-09-28,Mandava,Beverage purchases,Cost of sales,Weekly drinks order,Delta Beverages,USD,724.5,,724.5,owed,DLT-0928,recorded,
-2026-09-28,Mandava,Packaging,Cost of sales,Takeaway boxes,Packaging World,USD,120.75,,120.75,till_cash,,recorded,
-2026-09-28,Mandava,Gas and fuel,Running cost,Gas refill,,USD,46.42,,46.42,till_cash,,recorded,
 2026-09-30,Mandava,Food purchases,Cost of sales,Food order,Irvine's,USD,733.11,,733.11,bank,INV-0930MDV,recorded,
 2026-09-30,Mandava,Food purchases,Cost of sales,Vegetables,Mbare Fresh Produce,USD,287.5,,287.5,till_cash,,recorded,
